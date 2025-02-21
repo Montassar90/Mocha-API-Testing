@@ -1,0 +1,4 @@
+# Folder for installed dependencies
+node_modules/
+# Folders generated files during tests
+mochawesome-report/
