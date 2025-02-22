@@ -1,6 +1,14 @@
 {
     "Test": {
-      "API_URL": "https://automationexercise.com/api"
+
+      "API_URL": "https://automationexercise.com/api",
+
+      "productsListAPI": "/productsList",
+
+      "brandsListAPI": "/brandsList",
+
+      "searchProductAPI": "/searchProduct"
+
     }
     
   }
