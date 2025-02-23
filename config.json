@@ -11,7 +11,13 @@
 
       "createUserAPI": "/createAccount",
 
-      "deleteUserAPI": "/deleteAccount"
+      "deleteUserAPI": "/deleteAccount",
+
+      "loginAPI": "/verifyLogin",
+
+      "updateAPI": "/updateAccount",
+      
+      "userDetailsAPI": "/getUserDetailByEmail"
 
     }
     
