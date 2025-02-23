@@ -65,8 +65,6 @@ describe("Products API Requests Tests", () => {
     expect(response.data).to.not.be.null;
     expect(response.data.responseCode).to.equal(400);
     expect(response.data.message).to.equal("Bad request, search_product parameter is missing in POST request.");
-    console.log(response.data);
-
   });
 
 });
